@@ -2,6 +2,26 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.50 · 2026-11-25
+
+a puzzle seen close, and your own eyes sooner. In the grey heights a stone door is set in the rock: step before it and your eyes open, the slab right before you, three switches under a moon, a raven and ash; press them with 1, 2, 3, by tapping or with a controller. In the wrong order they all spring back; the cairn beside it says the right one; behind the door waits a niche and what someone hid there. Your own eyes (first person) are yours from the second chapter on, once the first flame burns, no longer only after the end; on a phone the menu has View for it. check.js now also finds a kind placed without its KIND entry
+
+## v0.49 · 2026-11-25
+
+animals of your own. With a night root in your hand the foxes, deer and hares of the Crowgrove let you come close and eat from it: a tamed fox fights at your side, a deer heals you while it walks with you (one of them along, anywhere, a cave too), the hares stay home and bring moonwort every night. Build a pen, and Farmer Jost sells the beasts of the farm as the long night has left them: moor cows with moss on their backs and green glints for eyes, mist sheep, ash hens; they stand in the pen and look well. Two of a kind and two night roots make a young one, grown by morning. What you build clears its ground of trees and bushes
+
+## v0.48 · 2026-11-25
+
+houses worth building. Rooms are timber-framed now: dark beams, light plaster, a plinth of stone, braces, windows with a cross and warm light behind them, a beam over every door, a slate roof with closed gables, a pale ridge and boards along the eaves; inside light planks, a red rug with a gold edge and a lamp on the wall that lights the room. While you choose a place the shadow of what you build stands calm where it fits and flickers where it does not. On a phone every window of talk and every menu breaks its lines instead of shrinking to nothing. The cup of coffee on the title sits bottom left, steaming. The needles of the grey heights stand on dry rock only; rooms show on the map as houses
+
+## v0.47 · 2026-11-25
+
+build your own house. A building plan stands by your hut: rooms that snap side by side and become one house, doors and openings between them, and when you step inside the whole house opens like a doll's house; windows and a picture of the Order for each room; a bed to sleep and save, a chest, a table, a kitchen, a furnace, garden beds, fences, lanterns; tear down and get half back. In the eternal night only night roots grow: find their saplings in the thick wood, plant them, harvest in four minutes; once the sun is back, Hedda sells sun seeds. You get hungry over half an hour and eat on your own from what you carry, no key to press: full you get your breath back sooner, hungry slower. The kitchen makes stew and sun meals, the furnace melts old blades into silver and ore. On the title: a cup of coffee for the maker
+
+## v0.46 · 2026-11-25
+
+the Crowgrove has an end and lands of its own. All round it, past the last trees, rises a wall of rock, higher than any tower in the north and lower in the south, its edges pale in the moonlight, falls coming down it that glow and throw a cold light, foam where they land. In the north-west the wood grows thick: timber. In the north-east lie the grey heights: bare rock, tarns, needles of stone, and ore veins that give two ore each
+
 ## v0.45 · 2026-11-25
 
 accounts that can be kept clean. Sign out to switch accounts, change your name, delete your account. Names are checked: slurs, the Nazi words and codes and the worst insults are refused in whatever spelling (digits for letters, signs between, doubled letters), doubtful ones are marked for the admin. The admin (a player name in ADMIN_NAMES in the Vercel settings) sees every name, the marked ones first, and can warn (the player must choose a new name before anything else works, or the account is shut after two days), shut and open accounts. Lobby names are checked too
