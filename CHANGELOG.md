@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.51 · 2026-11-25
+
+safer together. A security review of the multiplayer found two serious holes and six lesser ones, all closed: a host could slip markup into a friend's menus through a forged peer id (now every name and id from another browser is plain letters); the admin's name could be taken by anyone first (now reserved, it can only be registered while ADMIN_OPEN=1 is set); old logins outlived a renamed or deleted account (each account now carries a mark its tokens must match); co-op messages are checked and bounded (blows, gifts, positions, gear, monsters, and a broken message is dropped whole instead of freezing the game); ten wrong passwords rest a name for a quarter of an hour; passwords need eight letters; the password hashing no longer blocks the server. A Content-Security-Policy and HSTS guard the page
+
 ## v0.50 · 2026-11-25
 
 a puzzle seen close, and your own eyes sooner. In the grey heights a stone door is set in the rock: step before it and your eyes open, the slab right before you, three switches under a moon, a raven and ash; press them with 1, 2, 3, by tapping or with a controller. In the wrong order they all spring back; the cairn beside it says the right one; behind the door waits a niche and what someone hid there. Your own eyes (first person) are yours from the second chapter on, once the first flame burns, no longer only after the end; on a phone the menu has View for it. check.js now also finds a kind placed without its KIND entry
