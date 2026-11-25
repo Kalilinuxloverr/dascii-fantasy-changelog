@@ -2,6 +2,22 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.45 · 2026-11-25
+
+accounts that can be kept clean. Sign out to switch accounts, change your name, delete your account. Names are checked: slurs, the Nazi words and codes and the worst insults are refused in whatever spelling (digits for letters, signs between, doubled letters), doubtful ones are marked for the admin. The admin (a player name in ADMIN_NAMES in the Vercel settings) sees every name, the marked ones first, and can warn (the player must choose a new name before anything else works, or the account is shut after two days), shut and open accounts. Lobby names are checked too
+
+## v0.44 · 2026-11-25
+
+the title picture reads at a glance. The knight holds the order's blade, bright, with a short guard, so that what comes down is plainly a sword standing upright and not a bar lying across; the thing's head is darker behind it. When the skull parts, each half shows a ring of pale bone, raw flesh, and the brain bulging from the cut with its dark folds
+
+## v0.43 · 2026-11-25
+
+lobbies, friends, giving. Multiplayer on the title asks once who you are (a player name and a password), then which knight. Open a lobby under a name and friends join by that name, from the open lobbies, from the ones they were in last, from the starred ones, or from a friend who is in one; friends are added by name and see who is online and where. Give a friend an old blade, silver, wood, ore or potions. The knight is the same alone and together: what you earn as a guest is yours when you go home. Server: api/mp.js on Upstash Redis (passwords only as scrypt hashes, tries per minute limited, names letters only); until its database is connected the invitation link works as before. tools/mp-test.js checks it without a database
+
+## v0.42 · 2026-11-25
+
+two languages. German, in which the game was written, and English: every text of the game, the story, the people, the menus, about 1,080 of them. The browser's language decides at the first visit; Deutsch · English on the title and Language in the settings switch it. Crowgrove, Ashford, Mistmoor, the Crystal Grotto, Raven Pass, Bellhall, the Hollow Keep. Also the multiplayer server (api/mp.js: accounts, friends, lobbies on Upstash Redis); it waits for its database
+
 ## v0.41 · 2026-11-25
 
 ten saves and a new title. The title asks: alone or together; then which of ten knights. A save says which version wrote it: an older one can be carried over (Migrieren) or, from v0.40 on, played in the version it came from (Legacy, kept under legacy/<version>/). Your one save becomes the first slot, the one kept aside the second. In the corner, one above the other: version and beta, the developer, GitHub and Legacy, the very first version of the game, where a wanderer walks a map (rebuilt from the first session). Full screen from the menu on Android and iPad; on the iPhone the game goes on the home screen and starts from there without bars. On a phone the title fits, on its side too
