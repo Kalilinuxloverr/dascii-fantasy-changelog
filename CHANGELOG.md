@@ -2,6 +2,26 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.67 · 2026-11-26
+
+the mill wheel turns in its brook, and the village well is a well: two courses of dressed stone under a coping, dark water deep down, two posts with a windlass and its crank, the rope and a bucket, a shingled roof. Each land of the grove has its own ground: the dense wood darker and bluer, the deep wood almost black, the Grey Heights cold and grey, the shore of the black lake olive, and they melt into each other without an edge. The big map names the lands where you have been and shows the building plots, gold when they are yours
+
+## v0.66 · 2026-11-26
+
+four choices in the old chapters, each with a mark it leaves. Brother Aldric's ring: bury him by the flame in the moor (a grave with a candle stays there, and you have ten more life for good) or take the ring to Ilsa (she pays eighty silver and tells you who he was). The goblin brood behind the throne: let it run (goblins in the grove flee from you from then on) or smoke out the nest (no goblin comes to the grove or the grotto again, and the hoard holds sixty silver). Sev and the bell: let it be silent (the graveyard in the grove becomes safe ground) or let it ring every hour (nothing crawls out of the graves of Bellhall any more). The beacon, once the deep wood is done: white (Hamund gives you three potions) or red with the heartwood (the lighthouse glows red and the moon begins the last fight a quarter weaker). A choice closed unanswered waits where it was. The self test plays all eight outcomes
+
+## v0.65 · 2026-11-26
+
+every voice its own, and the things of the night have bodies. Two hundred lines rewritten so that each person sounds like themselves: Ilsa dry and short, Morwen speaking of the knight as if he were not there, Brann in prices, Hedda in offers, Torvin in reports, Jost in his father's sayings; errands say what happened, what is at stake and where to go, and the old contradictions are gone (the Master sits in the Hollow Keep, the king wears the seal round his neck, the clock's hammer strikes the bell). The starved ones keep their bones: thick knees and elbows on wasted limbs, the ribcage wide over a fallen belly, ribs, collarbones and the cords of the neck under the skin, the spine in knobs, cheekbones under empty sockets. Hands with four fingers and a thumb, bare feet with toes, claws at their ends; goblins with blade ears, hooked noses and a pot belly; monsters stand crouched with their claws half raised. The building plots no longer lie over roads, brooks, the lake and the mill pond, and their corner stones stand dry. check.js now refuses a function declared in two files
+
+## v0.64 · 2026-11-26
+
+fixes from a full review, and a real coach. An old save already past the stone door or the deep wood can now finish them: Ilsa takes the tinder and the heartwood whenever you bring them, 'later' means later and not never, and a quest taken up late shows its goal and its marker beside the main line. After the end the grove no longer stumbles when nothing is left to spawn. The new wardens get their own words, their life bar and their name; a co-op guest no longer raises them. The garden wall is a waist-high dry-stone wall you cannot walk through, the ravens' nest lies under its needle of rock, the warden who stays stands on dry ground. The coach stands on spoked wheels with a door, crossed windows, lanterns, a box seat and shafts, and a black horse pulls it. Browsers without WebGL 2 get the message and nothing else; check.js now also compiles the scripts inside index.html
+
+## v0.63 · 2026-11-26
+
+faces, and bodies without stripes. People have eyes now, with whites, an iris and a lid over them, brows of hair, a nose with a ridge, a tip and nostrils, lips and a chin; skin wears skin and hair wears strands in the picture view; locks over the brow and a braid for long hair, never poking through a hat. Every turned part of a body is smooth all round, so arms and coats no longer show in bands. And the self test now measures the cape: walking, running, turning and striking in every armor, no point of it inside the body or in front of it
+
 ## v0.62 · 2026-11-26
 
 animals with bodies. The deer, the fox, the hare, the moor cow, the mist sheep and the ash hen are no longer balls on sticks: a trunk turned along the spine with a deep chest, a drawn-in belly and a heavy haunch, a skull drawn out to the muzzle with a nose, brows and lips, legs with a muscled thigh and a lean shank that end in hooves or paws, a fox's brush with a white tip
