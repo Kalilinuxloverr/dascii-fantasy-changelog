@@ -2,6 +2,50 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.62 · 2026-11-26
+
+animals with bodies. The deer, the fox, the hare, the moor cow, the mist sheep and the ash hen are no longer balls on sticks: a trunk turned along the spine with a deep chest, a drawn-in belly and a heavy haunch, a skull drawn out to the muzzle with a nose, brows and lips, legs with a muscled thigh and a lean shank that end in hooves or paws, a fox's brush with a white tip
+
+## v0.61 · 2026-11-26
+
+the cape stays behind you, and people wear what they wear. The cape is no wider than the shoulders and never comes round to the front; its cloth hangs in folds with a hem. A knight in plate wears a harness made like one: a ridged breastplate with brass rims, shoulders of three lames, a skirt of lames, tassets, knee cops with wings, greaves, elbow cops, finger lames, rivets, a great helm with a brass cross. Mail comes with belt, buckle, purse, dagger and bracers; cloth with a cord belt and leg wraps; the tabard has a gold hem and the raven of the order. Bodies are rounder. Paffer sits at the cave mouth once his king is dead, Wenzel's cart stops at your coach after the false morning, the lands of the grove say their names, and Ilsa says less and says it better
+
+## v0.60 · 2026-11-26
+
+ten main quests, and each one changes the Crowgrove. Two of them are new and happen in the grove itself: the stone door in the grey heights (a raven switch torn out, a nest, Brann casts it anew, a warden of stone steps out of the rock, and what becomes of him is yours to say) and the deep wood (Hanno comes along or lends his torch, three grove lights, the grove warden at the gallows tree, the oldest tree: a branch, or all of it). The quest box says which of the ten and why; the journal shows all ten and what each has done. Five building plots open with the quests, sixteen new pieces to build, and after the tenth you build wherever you like. And the people speak: every one in a voice of their own
+
+## v0.59 · 2026-11-26
+
+the picture view in the look of the old dark games. Every surface wears a painted texture now: dressed stone with moss in the joints, cobbles with black gaps, rock, bark, boards, slate, grass, leaves, needles, plate steel that mirrors the sky and glints, mail, cloth, bone, hide; the water glitters, the sky has lit cloud rims, a dust of stars, great stars that glint, and curtains of light. Your own arms are arms: the elbow stays below the edge of sight, the wrist bends, fists with jointed fingers in rags, a glove or a gauntlet, six blades built for the eye, every blow a curve that crosses the middle as it lands. On phones the messages wrap
+
+## v0.58 · 2026-11-26
+
+no more stripes from above. The grass was drawn in rows of fixed height, and where the rows of its six layers met, a dark seam ran across every meadow; now each column of blades has its own offset. Water from above is soft drifting fields of ripples, no rows, no boxes, no darker tiles. The first mushroom, herb, rose, bush, tree or rock of its kind gets a pale ring once, so you know it can be gathered. And a self test that walks every place, model, foe, saved game, view and boss shot
+
+## v0.57 · 2026-11-26
+
+the shots show what they are about. When a boss came into sight, the eyes closed again in the same moment the shot began, so the picture stayed above your head with you in the middle and the Nachzehrer at its edge; now the shot is seen as a picture, the camera steps a little aside, you are hidden whenever you stand between it and what it looks at, and nobody stands right before the lens. From above, water no longer lies in stripes: the kind of ripple changes in patches, and a dim ground of water lies between the letters instead of black
+
+## v0.56 · 2026-11-25
+
+your own hands look like hands. The forearm stays in line with the fist, so however the blade turns in a cut the wrist no longer bends or breaks; the arms come up from below the edge of sight; the lantern hand stands upright round its ring. A blow draws back, then cuts fast along a bow that swings out ahead of you, then comes calmly back. Blocking without a shield holds the blade across before you
+
+## v0.55 · 2026-11-25
+
+the light helps once. Stand near a glowing thing for a few breaths and its ring and arrow go out for good, remembered with your save; from far off it still shows you the way the first time
+
+## v0.54 · 2026-11-25
+
+what the story asks for glows. A gold ring pulses at its foot and a gold arrow turns over it, a thing, a switch, a stone or a person, as long as it is what comes next; what a side errand wants gets only a pale ring. Also the hint to the next lever in the crystal cave points at the lever again (it had been lost with the translation)
+
+## v0.53 · 2026-11-25
+
+back to the title from the game: Settings → Main menu (saves first), and on a phone ≡ → Main menu
+
+## v0.52 · 2026-11-25
+
+the rain falls softer, a bed under the rest instead of a hiss over it. Your name on the title leads to your website. A suspicious player name now sends the admin an email (Resend), once RESEND_API_KEY and ADMIN_EMAIL are set
+
 ## v0.51 · 2026-11-25
 
 safer together. A security review of the multiplayer found two serious holes and six lesser ones, all closed: a host could slip markup into a friend's menus through a forged peer id (now every name and id from another browser is plain letters); the admin's name could be taken by anyone first (now reserved, it can only be registered while ADMIN_OPEN=1 is set); old logins outlived a renamed or deleted account (each account now carries a mark its tokens must match); co-op messages are checked and bounded (blows, gifts, positions, gear, monsters, and a broken message is dropped whole instead of freezing the game); ten wrong passwords rest a name for a quarter of an hour; passwords need eight letters; the password hashing no longer blocks the server. A Content-Security-Policy and HSTS guard the page
