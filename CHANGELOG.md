@@ -2,6 +2,22 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.71 · 2026-11-26
+
+each land grows its own. Ferns with arching fronds, fallen leaves and toadstools that glow in the dense wood; ferns, toadstools and old skulls in the deep wood; sharp scree with pale lichen on the Grey Heights; bulrushes with brown heads and reeds along the black lake
+
+## v0.70 · 2026-11-26
+
+Ilsa speaks for herself at every step. Where she used to read out the quest box, she now has her own words for each of eighteen stages, dry and short as she is: who Morwen is, why the hedge must burn, that what waits at the shrine was once one of you, that the clockmaker wrote the hour down because of course he did. And gear you already carry is paid in silver instead of being handed to you twice
+
+## v0.69 · 2026-11-26
+
+the way to the end is marked. From the false morning on, the quest marker shows where Ilsa, Hamund, the Flood Mother, the beacon and the stair are, and on the stair over the sea the will-o'-the-wisp leads up to the moon instead of back down to the shore. Every riddle can wait ("Not now."), Paffer's deal stays open until you answer it, and the last places that still spoke of chapters (the first card, the help, the page's own description) speak of main quests. The self test checks the markers of the last stages
+
+## v0.68 · 2026-11-26
+
+hands for everyone. The people of the villages have four fingers and a thumb, bare, in a leather glove or in a gauntlet, and they hold what they carry. The things that go on all fours were built from men and look it now: the crawler bent over backwards and the fused thing walk on wasted limbs with knobbed knees and elbows, on splayed hands with long fingers and nails, and the legs that never touch the ground end in bare feet. The Flood Mother, grown from the same body, too
+
 ## v0.67 · 2026-11-26
 
 the mill wheel turns in its brook, and the village well is a well: two courses of dressed stone under a coping, dark water deep down, two posts with a windlass and its crank, the rope and a bucket, a shingled roof. Each land of the grove has its own ground: the dense wood darker and bluer, the deep wood almost black, the Grey Heights cold and grey, the shore of the black lake olive, and they melt into each other without an edge. The big map names the lands where you have been and shows the building plots, gold when they are yours
