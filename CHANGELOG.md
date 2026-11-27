@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.03 · 2026-11-27
+
+achievements, as on Steam. Twenty-three marks to earn and keep: the story to its end, every side quest, maxed out, a hundred and a thousand slain, five of the great foes, one, ten and a marathon's 42.2 kilometres on foot, an hour, ten hours and a whole day of play, and more. They are yours across all your knights; when one falls to you it shows in the corner. In the settings you see them all with how far you are, and one of them you may wear: it stands beside your name, and over your head for the friends you play with. And the stones through the shallows to the island in the black lake lie on the ford now, which is wider; before, they led into the deep where you could go no further
+
 ## v1.02 · 2026-11-27
 
 the ride in the coach, more like a ride. The horse trots now, as a horse in harness does, two legs and two legs, its back bouncing and its head nodding with each beat, instead of galloping like a toy. The box of the coach hangs on its springs: it pitches with each pull of the horse, rolls and swings out after a pothole and settles again, while wheels and horse keep to the road; Grimm and whoever rides inside sway with it. The close shot before the horse's face is gone for one running beside it, the camera is held by a hand, and no tree stands before the lens any more
