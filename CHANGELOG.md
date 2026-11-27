@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.16 · 2026-11-27
+
+lanterns light the lanes of Aschenfurt, one where each lane leaves the square, warm in the night as in the alleys of the old pictures
+
 ## v1.15 · 2026-11-27
 
 the big map names the places within a place where you have been: in Glockenhall the graveyard, the gallows hill, the foundry, the square, the church and the brook; on the Violet Plain the star ring and the old observatory; at the Poison Lake the lake and the throne; on the Raven Pass the camp and the gate of the watch. And a name on the map has real gaps between its words, not dots
