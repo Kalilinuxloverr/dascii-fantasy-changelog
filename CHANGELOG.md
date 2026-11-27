@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.93 · 2026-11-27
+
+outside the gate of Ashford a way of stones runs east now, to the coach and on to the fire of the travellers who were not let in, and a signpost stands where it forks
+
 ## v0.92 · 2026-11-27
 
 the one by the fire, as in the old renders. Sev the gravedigger wears a mask in the shape of a skull, glazed white and shining: the sockets slant down to the nose under a hard ridge of bone, violet eyes burn deep in them, cheekbones, the hole of the nose, a row of teeth. A robe of dark purple, black hands long in the nail. He sits bent on a log by the fire, the robe over his knees and down to the ground. The bellringer wears such a mask too, and the claws of the hooded ones show now. The Violet Plain is cracked plates lying loose again, not a square laid in rows
