@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.14 · 2026-11-27
+
+things no longer stand in one another. One of the goblin cook's shelves stood right on a lever you must pull to open the gate to the throne; it is gone. Paffer's rock covered a crystal, the new waterfall in Glockenhall stood on the foundry's woodpile, and a signpost stood inside a house; all moved. A walk through every place found everything one can use within reach, behind what the story opens
+
 ## v1.13 · 2026-11-27
 
 nobody stands inside something any more. A search through every place found the coachman at the abbey standing in a stone and the star wanderer standing in one of the cold torches of his stone ring; nothing grows on the spot where someone stands now, and the wanderer waits a step before the ring
