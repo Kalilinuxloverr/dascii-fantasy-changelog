@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.05 · 2026-11-27
+
+the open wings of the gate on the pass are iron that takes the light; before, they stayed black where no light fell, and an open wing looked like a hole in the wall. Your hut is taller, so a knight with his sword up no longer stands into its eaves. And the woods are less heaped: a floor between the ferns
+
 ## v1.04 · 2026-11-27
 
 what you found on the way. In Safari dark rectangles lay in rows over the ground and even over the horse: far out in the grown lands its graphics took the sine of large numbers so roughly that whole blocks of the picture came out alike; the chance in the pictures no longer uses a sine. Whoever got stuck in a wall could walk on through it; now you are set out at the nearest free spot at once. The acid fountain and the wells are as solid as they look. You see your fist on the grip of the shield, and the shield is a shield's size. The way you choose to see stays chosen: after a house, a gate or a shot your own eyes come back. Ivy on the deserted houses climbs in strands instead of standing as a green board. The workshop counts the story's steps right
