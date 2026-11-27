@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.76 · 2026-11-27
+
+room to pass the coach. The coach and its horse no longer block as one great box: the coach is as wide as it is, the horse between its shafts as narrow as a horse, and a coach turned round knows its horse is on the other side. On the Raven Pass the coach stands against the drop, so the way past it along the rock is one wide way and Wenzel's fire can be reached; in the Fog Moor, where coach and horse fit nowhere, the coach waits without its horse instead of letting it stand out over the edge of the world
+
 ## v0.75 · 2026-11-27
 
 nothing holds you any more. A knight who stands inside a trunk, a rock or a thing that appeared where he stood walks out of it, and if he does not, the game sets him free; B does it whenever you are wedged in. The hunters no longer stand trembling between the straight way and the way round: they keep to a detour once they take it, notice when they get no nearer, step aside, and give up when there is no way through. The door warden looks at you, not at the place he once stepped out to. When the first flame burns your eyes open for real: the lids close, open slowly on the world seen as it is, blurred and too bright, then sharp, and a voice tells you what happened. The second armour is a knight's now: blackened mail and a barbute with the T of its slits. Stone is laid in big worn blocks as the old renders lay it, and up close it keeps its grain instead of turning to squares. Graph Pferdinand and his mare stand clear of the coach
