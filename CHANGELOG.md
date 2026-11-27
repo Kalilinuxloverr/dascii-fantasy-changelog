@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.82 · 2026-11-27
+
+Aschenfurt grows. The village is laid out half again as large: more room on the square, between the houses and in the lanes, wider fields and a longer road to the gate. Its wall grows with it, a longer ring of more stretches, closed all round but for the gate where the road goes through
+
 ## v0.81 · 2026-11-27
 
 the Fog Moor grows. The moor is laid out half again as large, more black water and reed between the camp, the drowned hamlet, the washerwoman's line and the old stones round the flame. The thorn hedge and the wall of mist still close the wider way from side to side. The coach has its horse again: turned round, it stands towards the path on firm ground instead of over the water
