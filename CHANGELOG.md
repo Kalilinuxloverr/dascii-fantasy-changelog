@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.83 · 2026-11-27
+
+the Crowgrove grows. The grove round your hut is laid out half again as large: wider meadows, a longer way to the mill, the lake, the hunter's lodge and the farm, more deep wood in the north and more grey heights in the east. What you built stays as you built it: each building plot moves with the land as a whole, the one round the house with the house, rooms stay on their grid and new ones still join the old; older saves move their pieces once when they load and keep the old places beside them. The door in the rock, its warden, the three grove lights, the warden of the wood, the dark of the deep wood, the names of the lands on the map, the picture at the start and the ways out of the house, the cave and the crypt all moved with it. The map of a place you have seen is carried over to its larger size instead of starting empty
+
 ## v0.82 · 2026-11-27
 
 Aschenfurt grows. The village is laid out half again as large: more room on the square, between the houses and in the lanes, wider fields and a longer road to the gate. Its wall grows with it, a longer ring of more stretches, closed all round but for the gate where the road goes through
