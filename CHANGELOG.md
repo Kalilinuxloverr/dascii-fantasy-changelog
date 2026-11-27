@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.11 · 2026-11-27
+
+a brook runs through Glockenhall. It falls out of the wood at the north-east edge of the town into a pool, and runs down east of the houses to the south, shallow enough to wade, two stones where the way crosses it
+
 ## v1.10 · 2026-11-27
 
 the achievement you wear stands beside your name among your friends and in the list of open lobbies too, not only in your own corner and over your head
