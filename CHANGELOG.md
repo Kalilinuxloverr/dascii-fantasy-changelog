@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.08 · 2026-11-27
+
+the sun of the false morning, as in the old renders. When the sun is back it hangs in the sky, across from the moon that still grins: a ball of red-orange crust with flames licking round it, and a face, its eyes half shut under heavy lids, bored, its lips full and red. It gives light and no warmth, and it looks it
+
 ## v1.07 · 2026-11-27
 
 the warden of the graves, as in the old renders: a lich. The sinews of the dead have gone teal over his ribs and down his bare arms, his skull grins with all its teeth and cold light in its sockets, a robe of black velvet falls to the ground with bands of gold and gold at its hem, and a round black mantle with a gold rim lies over his shoulders. He still carries the great sword
