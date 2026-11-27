@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.80 · 2026-11-27
+
+the Hollow Keep grows and shows its face. The keep is laid out half again as large. Over the moat its front rises as the old renders raised such fronts: a wall of dark blocks crowded with pinnacles, two towers with slate spires beside a high gable, and a deep pointed portal of three stepped rings, its door of black iron glowing violet from within, the master's sigil on it, until the bell's clapper strikes it and it rises. Broad stairs lead up to it between parapets and posts carved with faces, and cold fire burns either side. The chain towers at the moat stand tall now, a narrow pointed way through them, a red rose high on their faces, four turrets at their crowns, and their heavy chains swing down to posts at the far end of the bridge; the chain tower on the Raven Pass is built the same
+
 ## v0.79 · 2026-11-27
 
 the Raven Pass grows and gets its gatehouse. The pass is laid out half again as large, more snow and rock between the camp, the field of the watch and the chain tower, and a road now runs from the camp straight at the gate and on up to the tower, with a trail to the raven father. Where two pillars stood, a gatehouse stands across the gorge as the old renders built such gates: a steep slate roof over a gable of big blocks with a black cross of beams, a pointed arch in a frame of stone, a deep tunnel with teal fire in its walls, walls of the watch either side into the rock, flagstones before it and through it, and the cold fire of the watch burning before both its faces. The sky over the pass is magenta now. The resting fire in the camp, lost since 0.76, is back
