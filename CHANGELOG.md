@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.98 · 2026-11-27
+
+a bed asks each time you come to it whether you have something to plant. Before, it knew only what you carried when the yard was laid out, so night saplings dug up in the wood afterwards could not go into it
+
 ## v0.97 · 2026-11-27
 
 what you found on the road. In the picture view the ground now reaches out to where the haze takes it, ahead of you where you look, so the land no longer ends in a band behind the lake. A beast that lies in wait does not give way any more when you walk at it, as if you were pushing it about: it stands its ground, growls, and soon it comes (only a fire still drives it back into the dark). A raised bed and a fallen trunk are as solid as they look, and no trunk lies across a way or at its edge any more, as one did on the way to Morwen
