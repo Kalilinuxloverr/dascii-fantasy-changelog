@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.96 · 2026-11-27
+
+Paffer, as in the old renders. The goblin who smokes in the Crystal Grotto perches now on a slab of rock that falls away before him, his feet lower down on it, his knees up by his chin, a cigar in the corner of his mouth with its end glowing, and the smoke goes up off it in a thin crooked thread. Red eyes, long claws
+
 ## v0.95 · 2026-11-27
 
 the goblins' kitchen, as in the old renders. In the Crystal Grotto a pot of black iron stands over the fire, full to the rim with a green that glows, bubbles standing on it, some of it running over the rim into a puddle. Round the walls stand the cook's shelves, crammed: bottles glowing green, blue, amber and violet, jars, mushrooms, skulls, candles burnt down, herbs hung to dry, a copper pipe. At the pot stands Schlotz, the cook: big eyes with slits in them, a mouth of teeth, a leather apron, a ladle as long as himself. He does not fight, he cooks, whoever falls about him; one spoonful of his soup makes you whole
