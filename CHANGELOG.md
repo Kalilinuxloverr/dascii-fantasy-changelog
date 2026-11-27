@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.86 · 2026-11-27
+
+the dead trees are drawn as the old renders drew them: black, their trunks twisting up out of roots that grip the ground, three to five limbs reaching wide and up like horns and bending in at their tips, thin twigs off them, no two alike. They stand in the haze of every graveyard, moor and pass
+
 ## v0.85 · 2026-11-27
 
 the Crystal Grotto and the Blind Abbey grow. The grotto's tunnels and halls are laid out half again as large, and its grating still closes the wider tunnel from rock to rock. The forest of the dead round the abbey is wider, the mist before the abbey stands closer so nothing slips past it, and the crossing of the stone monk still leads back to itself until you follow his gaze. Every place of the land is now laid out larger
