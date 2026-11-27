@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.79 · 2026-11-27
+
+the Raven Pass grows and gets its gatehouse. The pass is laid out half again as large, more snow and rock between the camp, the field of the watch and the chain tower, and a road now runs from the camp straight at the gate and on up to the tower, with a trail to the raven father. Where two pillars stood, a gatehouse stands across the gorge as the old renders built such gates: a steep slate roof over a gable of big blocks with a black cross of beams, a pointed arch in a frame of stone, a deep tunnel with teal fire in its walls, walls of the watch either side into the rock, flagstones before it and through it, and the cold fire of the watch burning before both its faces. The sky over the pass is magenta now. The resting fire in the camp, lost since 0.76, is back
+
 ## v0.78 · 2026-11-27
 
 Glockenhall grows. The town is laid out half again as large, with more land between the ruined houses, a wider plaza and a bigger graveyard, and paved roads now lead from the cross in the middle to the clock, to Sev's fire, to the graveyard, to the foundry and to the coach, with trodden paths up the gallows hill and signposts where the ways part. The church is built anew as the old renders built them: a tall tower of big weathered blocks, a pale clock with its ring, its marks and its hands, a louvred bell window, a steep slate spire with a cross, a dark pointed portal, a rose and lancet windows set deep in stone. Over it the sky is violet and magenta. Old saves keep their resting place and start a fresh map of the town
