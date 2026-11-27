@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.72 · 2026-11-27
+
+a horse that is a horse, and a ride worth watching. The coach horse is grown from curves now, a dark bay in black harness with a deep chest, an arched neck and a mane, a long head with blinkers, legs that bend at knee, hock and fetlock, and no holes from any side; and when you travel, the coach takes a night road through the firs at a gallop, the camera low before the horse, beside the wheels, then behind as it runs into the dark. People speak aloud, each in a voice of their own; loudness has real sliders and the music carries over the wind. Ilsa's face looks out of an open hood, Grimm's hat sits on his hair, the lantern hand holds a handle. The water of the moor lies dark and still with a ripple here and there instead of a screen of strokes, and no camera looks through rock any more, the goblin king's least of all. Wild animals notice you before they run: they lift their heads, watch you creep closer, and bolt in their own time, the herd with them. A bug can be reported from the settings with the picture of the game and photos of your own, the play time is counted, and Graph Pferdinand from Bregenz wants to know who brought down his wall. In the picture view every texture is a relief under the moon
+
 ## v0.71 · 2026-11-26
 
 each land grows its own. Ferns with arching fronds, fallen leaves and toadstools that glow in the dense wood; ferns, toadstools and old skulls in the deep wood; sharp scree with pale lichen on the Grey Heights; bulrushes with brown heads and reeds along the black lake
