@@ -2,6 +2,14 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.78 · 2026-11-27
+
+Glockenhall grows. The town is laid out half again as large, with more land between the ruined houses, a wider plaza and a bigger graveyard, and paved roads now lead from the cross in the middle to the clock, to Sev's fire, to the graveyard, to the foundry and to the coach, with trodden paths up the gallows hill and signposts where the ways part. The church is built anew as the old renders built them: a tall tower of big weathered blocks, a pale clock with its ring, its marks and its hands, a louvred bell window, a steep slate spire with a cross, a dark pointed portal, a rose and lancet windows set deep in stone. Over it the sky is violet and magenta. Old saves keep their resting place and start a fresh map of the town
+
+## v0.77 · 2026-11-27
+
+no ride like the last. The camera takes a side of its own each time, and between the start and the run into the dark it chooses three of six shots: low on the road, beside the coach, over Grimm's shoulder, down by the back wheel, a crane from above, close before the horse's head; and sometimes Grimm cracks the whip again on the way. The passengers sit inside their windows and nothing of them shows on the coach's wall. Where the land ends, the picture no longer shows a black hole: the far firs and everything beyond stand in a haze the colour of the horizon
+
 ## v0.76 · 2026-11-27
 
 room to pass the coach. The coach and its horse no longer block as one great box: the coach is as wide as it is, the horse between its shafts as narrow as a horse, and a coach turned round knows its horse is on the other side. On the Raven Pass the coach stands against the drop, so the way past it along the rock is one wide way and Wenzel's fire can be reached; in the Fog Moor, where coach and horse fit nowhere, the coach waits without its horse instead of letting it stand out over the edge of the world
