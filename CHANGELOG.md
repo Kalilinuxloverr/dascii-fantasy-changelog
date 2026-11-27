@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.99 · 2026-11-27
+
+no more stutter in a fight. Whenever a tree or a trunk came into sight at the edge of the view, the hunters forgot their whole map of the ground and laid it out again, a fifth of a second each time, and in a fight that is often; now they ask again only where the thing stands, and the first map of a place takes a tenth of the time. The ground before your eye is laid anew only when you would look past its edge. And Grimm the coachman has more to say than where to, horses don't ask
+
 ## v0.98 · 2026-11-27
 
 a bed asks each time you come to it whether you have something to plant. Before, it knew only what you carried when the yard was laid out, so night saplings dug up in the wood afterwards could not go into it
