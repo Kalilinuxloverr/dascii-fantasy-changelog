@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.74 · 2026-11-27
+
+the people speak with voices of their own. Every sentence they say was spoken once by a neural voice and comes with the game: Ilsa old and trembling, Brann gruff, Mila a child, Paffer a goblin's squeak, the washerwoman and Elske with the echo of the dead, the stone guardian, the Hollow Knight and the moon deep and ringing as in a hall, in German and in English. What has no recording yet is read by the browser, which now neither swallows a sentence nor stops in the middle, and speaks on an iPhone too. A narrator reads the pages of the story, and the pages wait for him. Robes fall in folds to an uneven hem, and the sleeves hang wide
+
 ## v0.73 · 2026-11-27
 
 together all the way. A friend no longer fades into the dark of the moor with only a name left walking: every knight carries a lantern of their own. No two knights look alike, each with their own cloth, build, hair and skin, to be changed in the settings. A journey is made together: the host picks the place at the coach, the others are led there by the will-o'-the-wisp, and when all stand at the coach they ride, each in their own coach with every traveller dark against the lit windows. Friends see what the host sees: the camera's shots, the pages of the story, the great words, the quests and what is said, and the card on the way when they follow through a door. When the host opens a window the world goes on for the others. The ride itself starts from a standstill now: Grimm cracks the whip, the horse throws up its head and neighs, dust flies from the hooves, and the camera looks over Grimm's shoulder down the road. In the picture view the walls of the grotto are rock, figures shine where the lantern falls on them, and what stands close to the light keeps its colour
