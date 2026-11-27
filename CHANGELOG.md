@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.75 · 2026-11-27
+
+nothing holds you any more. A knight who stands inside a trunk, a rock or a thing that appeared where he stood walks out of it, and if he does not, the game sets him free; B does it whenever you are wedged in. The hunters no longer stand trembling between the straight way and the way round: they keep to a detour once they take it, notice when they get no nearer, step aside, and give up when there is no way through. The door warden looks at you, not at the place he once stepped out to. When the first flame burns your eyes open for real: the lids close, open slowly on the world seen as it is, blurred and too bright, then sharp, and a voice tells you what happened. The second armour is a knight's now: blackened mail and a barbute with the T of its slits. Stone is laid in big worn blocks as the old renders lay it, and up close it keeps its grain instead of turning to squares. Graph Pferdinand and his mare stand clear of the coach
+
 ## v0.74 · 2026-11-27
 
 the people speak with voices of their own. Every sentence they say was spoken once by a neural voice and comes with the game: Ilsa old and trembling, Brann gruff, Mila a child, Paffer a goblin's squeak, the washerwoman and Elske with the echo of the dead, the stone guardian, the Hollow Knight and the moon deep and ringing as in a hall, in German and in English. What has no recording yet is read by the browser, which now neither swallows a sentence nor stops in the middle, and speaks on an iPhone too. A narrator reads the pages of the story, and the pages wait for him. Robes fall in folds to an uneven hem, and the sleeves hang wide
