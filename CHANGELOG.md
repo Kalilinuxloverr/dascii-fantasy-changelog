@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.89 · 2026-11-27
+
+over the Hollow Keep the sky is one of cells now, as over the chain tower in the old renders: dark round clouds packed close together and the red burning in the seams between them, the lights low over the horizon the colour of embers instead of green. When the morning comes, the cells go
+
 ## v0.88 · 2026-11-27
 
 a land of its own, the Poison Lake. Once the pass is open, Grimm drives there too: a lake of green poison glowing in a basin of mossy rock under a magenta sky with green lights in it, on its far shore the black castle of a drowned kingdom, its towers spired and a few of its windows still lit. On this shore, on a throne of moss, sits its king: a skeleton in a black coat with a crown of gold and red stones, who still wants someone to kneel to him. Kneel, or do not; he has something for either. People can sit now, on thrones and the like
