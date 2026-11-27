@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.92 · 2026-11-27
+
+the one by the fire, as in the old renders. Sev the gravedigger wears a mask in the shape of a skull, glazed white and shining: the sockets slant down to the nose under a hard ridge of bone, violet eyes burn deep in them, cheekbones, the hole of the nose, a row of teeth. A robe of dark purple, black hands long in the nail. He sits bent on a log by the fire, the robe over his knees and down to the ground. The bellringer wears such a mask too, and the claws of the hooded ones show now. The Violet Plain is cracked plates lying loose again, not a square laid in rows
+
 ## v0.91 · 2026-11-27
 
 the ground is laid in stone as in the old renders. A path is big flat stones laid loose, each more than half a metre across and rounded at its edges; a square or a floor is long slabs in rows, each row shifted against the next. Pale, blue and violet under the moon, the joints between them deep and dark. A stone lies whole or not at all, so a path ends at the edges of its stones and the grass grows in between them
