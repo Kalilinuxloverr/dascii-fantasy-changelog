@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.09 · 2026-11-27
+
+the people of the land, closer to the old renders. Their clothes are cloth with a soft sheen now, not a glitter of sequins (and a green coat no longer wears the hide of a beast); a coat has sleeves with some cloth in them, not tubes for arms; skin is fine; and a face no longer reads from afar as a black band across the eyes, the brows thinner, the eyes set in shade instead of black
+
 ## v1.08 · 2026-11-27
 
 the sun of the false morning, as in the old renders. When the sun is back it hangs in the sky, across from the moon that still grins: a ball of red-orange crust with flames licking round it, and a face, its eyes half shut under heavy lids, bored, its lips full and red. It gives light and no warmth, and it looks it
