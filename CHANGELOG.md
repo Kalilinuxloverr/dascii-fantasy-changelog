@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.81 · 2026-11-27
+
+the Fog Moor grows. The moor is laid out half again as large, more black water and reed between the camp, the drowned hamlet, the washerwoman's line and the old stones round the flame. The thorn hedge and the wall of mist still close the wider way from side to side. The coach has its horse again: turned round, it stands towards the path on firm ground instead of over the water
+
 ## v0.80 · 2026-11-27
 
 the Hollow Keep grows and shows its face. The keep is laid out half again as large. Over the moat its front rises as the old renders raised such fronts: a wall of dark blocks crowded with pinnacles, two towers with slate spires beside a high gable, and a deep pointed portal of three stepped rings, its door of black iron glowing violet from within, the master's sigil on it, until the bell's clapper strikes it and it rises. Broad stairs lead up to it between parapets and posts carved with faces, and cold fire burns either side. The chain towers at the moat stand tall now, a narrow pointed way through them, a red rose high on their faces, four turrets at their crowns, and their heavy chains swing down to posts at the far end of the bridge; the chain tower on the Raven Pass is built the same
