@@ -4,10 +4,10 @@ Ein dunkles Märchen aus Zeichen: ein gefallener Ritter, erloschene Flammen und 
 
 **Spielen:** https://dascii-fantasy.vercel.app
 
-Dev: Leon Fröhlich · noch Beta · v0.99
+Dev: Leon Fröhlich · noch Beta · v1.00
 
 Der Code ist privat. Hier steht nur, was sich geändert hat: [CHANGELOG.md](CHANGELOG.md)
 
 ## Zähler
 
-**906 Nachrichten** bisher: 90 von Leon, 816 von Claude (Stand 27.11.2026).
+**910 Nachrichten** bisher: 90 von Leon, 820 von Claude (Stand 27.11.2026).
