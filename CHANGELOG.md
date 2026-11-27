@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.91 · 2026-11-27
+
+the ground is laid in stone as in the old renders. A path is big flat stones laid loose, each more than half a metre across and rounded at its edges; a square or a floor is long slabs in rows, each row shifted against the next. Pale, blue and violet under the moon, the joints between them deep and dark. A stone lies whole or not at all, so a path ends at the edges of its stones and the grass grows in between them
+
 ## v0.90 · 2026-11-27
 
 windows and doors have depth. On every house a frame stands out of the wall round each window, a lintel over it and a sill under it, the pane set back behind them and the cross of its bars in front of the light, and here and there the shutters stand open. The doors are planks with two iron bands and a ring, set deep between posts under a heavy lintel
