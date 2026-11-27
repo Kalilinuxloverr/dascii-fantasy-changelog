@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.04 · 2026-11-27
+
+what you found on the way. In Safari dark rectangles lay in rows over the ground and even over the horse: far out in the grown lands its graphics took the sine of large numbers so roughly that whole blocks of the picture came out alike; the chance in the pictures no longer uses a sine. Whoever got stuck in a wall could walk on through it; now you are set out at the nearest free spot at once. The acid fountain and the wells are as solid as they look. You see your fist on the grip of the shield, and the shield is a shield's size. The way you choose to see stays chosen: after a house, a gate or a shot your own eyes come back. Ivy on the deserted houses climbs in strands instead of standing as a green board. The workshop counts the story's steps right
+
 ## v1.03 · 2026-11-27
 
 achievements, as on Steam. Twenty-three marks to earn and keep: the story to its end, every side quest, maxed out, a hundred and a thousand slain, five of the great foes, one, ten and a marathon's 42.2 kilometres on foot, an hour, ten hours and a whole day of play, and more. They are yours across all your knights; when one falls to you it shows in the corner. In the settings you see them all with how far you are, and one of them you may wear: it stands beside your name, and over your head for the friends you play with. And the stones through the shallows to the island in the black lake lie on the ford now, which is wider; before, they led into the deep where you could go no further
