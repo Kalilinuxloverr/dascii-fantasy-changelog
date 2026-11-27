@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.12 · 2026-11-27
+
+over the Hollow Keep the moon is red, the same grinning face in blood above the black towers. In the west of the Blind Abbey one of the copyists still sits at his desk, bones in a red habit gone to rags, bowed over the open book, his candles burnt down and books heaped round him. And boats and coffins are as solid as they look; a search through every place found nothing else one could walk through
+
 ## v1.11 · 2026-11-27
 
 a brook runs through Glockenhall. It falls out of the wood at the north-east edge of the town into a pool, and runs down east of the houses to the south, shallow enough to wade, two stones where the way crosses it
