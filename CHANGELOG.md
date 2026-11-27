@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.10 · 2026-11-27
+
+the achievement you wear stands beside your name among your friends and in the list of open lobbies too, not only in your own corner and over your head
+
 ## v1.09 · 2026-11-27
 
 the people of the land, closer to the old renders. Their clothes are cloth with a soft sheen now, not a glitter of sequins (and a green coat no longer wears the hide of a beast); a coat has sleeves with some cloth in them, not tubes for arms; skin is fine; and a face no longer reads from afar as a black band across the eyes, the brows thinner, the eyes set in shade instead of black
