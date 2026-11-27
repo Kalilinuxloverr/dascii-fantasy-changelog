@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.07 · 2026-11-27
+
+the warden of the graves, as in the old renders: a lich. The sinews of the dead have gone teal over his ribs and down his bare arms, his skull grins with all its teeth and cold light in its sockets, a robe of black velvet falls to the ground with bands of gold and gold at its hem, and a round black mantle with a gold rim lies over his shoulders. He still carries the great sword
+
 ## v1.06 · 2026-11-27
 
 the bone rider, as in the old renders. He rides a true war horse now, deep violet, in a caparison of dark red whose hem is cut in points like flames, gold at its edges, plates on its neck and its face, instead of a starved four-legged thing. On it a knight of bare bone, his ribs open to the night, red-orange plates on his shoulders, arms and shins, a gold belt, and violet fire flickering off his skull. When he falls, the horse goes down with him
