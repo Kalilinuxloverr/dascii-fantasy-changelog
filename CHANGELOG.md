@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.13 · 2026-11-27
+
+nobody stands inside something any more. A search through every place found the coachman at the abbey standing in a stone and the star wanderer standing in one of the cold torches of his stone ring; nothing grows on the spot where someone stands now, and the wanderer waits a step before the ring
+
 ## v1.12 · 2026-11-27
 
 over the Hollow Keep the moon is red, the same grinning face in blood above the black towers. In the west of the Blind Abbey one of the copyists still sits at his desk, bones in a red habit gone to rags, bowed over the open book, his candles burnt down and books heaped round him. And boats and coffins are as solid as they look; a search through every place found nothing else one could walk through
