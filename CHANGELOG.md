@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.85 · 2026-11-27
+
+the Crystal Grotto and the Blind Abbey grow. The grotto's tunnels and halls are laid out half again as large, and its grating still closes the wider tunnel from rock to rock. The forest of the dead round the abbey is wider, the mist before the abbey stands closer so nothing slips past it, and the crossing of the stone monk still leads back to itself until you follow his gaze. Every place of the land is now laid out larger
+
 ## v0.84 · 2026-11-27
 
 in English, for now, nobody speaks aloud: the letters of what is said murmur as they appear, as they did before the voices came, and the pages of the story turn at their own pace. In German the voices speak as before
