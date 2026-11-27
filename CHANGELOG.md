@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.02 · 2026-11-27
+
+the ride in the coach, more like a ride. The horse trots now, as a horse in harness does, two legs and two legs, its back bouncing and its head nodding with each beat, instead of galloping like a toy. The box of the coach hangs on its springs: it pitches with each pull of the horse, rolls and swings out after a pothole and settles again, while wheels and horse keep to the road; Grimm and whoever rides inside sway with it. The close shot before the horse's face is gone for one running beside it, the camera is held by a hand, and no tree stands before the lens any more
+
 ## v1.01 · 2026-11-27
 
 the map reaches as far as you have been. It showed only a window about you, and the lands have grown since; now it takes in all you have explored, as fine as still fits, and you stand on it where you are
