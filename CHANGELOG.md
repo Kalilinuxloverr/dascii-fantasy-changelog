@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.90 · 2026-11-27
+
+windows and doors have depth. On every house a frame stands out of the wall round each window, a lintel over it and a sill under it, the pane set back behind them and the cross of its bars in front of the light, and here and there the shutters stand open. The doors are planks with two iron bands and a ring, set deep between posts under a heavy lintel
+
 ## v0.89 · 2026-11-27
 
 over the Hollow Keep the sky is one of cells now, as over the chain tower in the old renders: dark round clouds packed close together and the red burning in the seams between them, the lights low over the horizon the colour of embers instead of green. When the morning comes, the cells go
