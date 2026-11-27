@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.95 · 2026-11-27
+
+the goblins' kitchen, as in the old renders. In the Crystal Grotto a pot of black iron stands over the fire, full to the rim with a green that glows, bubbles standing on it, some of it running over the rim into a puddle. Round the walls stand the cook's shelves, crammed: bottles glowing green, blue, amber and violet, jars, mushrooms, skulls, candles burnt down, herbs hung to dry, a copper pipe. At the pot stands Schlotz, the cook: big eyes with slits in them, a mouth of teeth, a leather apron, a ladle as long as himself. He does not fight, he cooks, whoever falls about him; one spoonful of his soup makes you whole
+
 ## v0.94 · 2026-11-27
 
 robes are velvet. A robe, its sleeves and what it covers of the chest are one cloth from the collar to the hem, smooth instead of a glitter of grain, and the ridges of its folds light up where they turn away from the eye, as cloth did in the old renders. The sister's cloth over her eyes is cloth too
