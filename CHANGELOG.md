@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.94 · 2026-11-27
+
+robes are velvet. A robe, its sleeves and what it covers of the chest are one cloth from the collar to the hem, smooth instead of a glitter of grain, and the ridges of its folds light up where they turn away from the eye, as cloth did in the old renders. The sister's cloth over her eyes is cloth too
+
 ## v0.93 · 2026-11-27
 
 outside the gate of Ashford a way of stones runs east now, to the coach and on to the fire of the travellers who were not let in, and a signpost stands where it forks
