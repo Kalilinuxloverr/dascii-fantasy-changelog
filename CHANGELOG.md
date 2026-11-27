@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v0.87 · 2026-11-27
+
+a land of its own, the Violet Plain. Once the first flame burns, Grimm drives there too: a wide plain of cracked violet stone under a swirling violet sky, low ridges of weathered rock round it, a ring of standing stones in the middle with the sky scratched into its altar, the ruins of an observatory, violet crystals, the dead of the crossing. In the ring an old man in a pointed hat leans on a staff taller than he is, his beard down to his belt, and counts the stars that fall. Three splinters of the one that was the flame lie out on the plain; bring them to him
+
 ## v0.86 · 2026-11-27
 
 the dead trees are drawn as the old renders drew them: black, their trunks twisting up out of roots that grip the ground, three to five limbs reaching wide and up like horns and bending in at their tips, thin twigs off them, no two alike. They stand in the haze of every graveyard, moor and pass
