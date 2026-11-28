@@ -2,6 +2,10 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.23 · 2026-11-28
+
+the spoken voices rest for now. More quests and new words are on their way, and the people of the game will be given their voices again when the words are final; until then the letters murmur as they appear, as they do in English. Nothing was deleted
+
 ## v1.22 · 2026-11-28
 
 when the beacon burns, the knight raises the blade into its light, and over the sea a stair of stone comes out of the dark, step by step, cold light on every stone. It hangs a moment, then falls: stone after stone into the sea, the water leaps, the ground shakes, and with the last one the whole sea shudders. What is left is a broad way of stones over the water; at its end you walk on up the stair to the moon
