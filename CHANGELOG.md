@@ -2,6 +2,30 @@
 
 Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
 
+## v1.22 · 2026-11-28
+
+when the beacon burns, the knight raises the blade into its light, and over the sea a stair of stone comes out of the dark, step by step, cold light on every stone. It hangs a moment, then falls: stone after stone into the sea, the water leaps, the ground shakes, and with the last one the whole sea shudders. What is left is a broad way of stones over the water; at its end you walk on up the stair to the moon
+
+## v1.21 · 2026-11-28
+
+the moon stair can be climbed: it was so narrow that the braziers standing on it closed it, and its last step ended in deep water short of the round at the top. Now it is broad, the fires stand beside it, and it runs on into the round
+
+## v1.20 · 2026-11-28
+
+your knights belong to your account now, not to one browser. Signed in, every save goes to the server too (the explored map packed small), and wherever you sign in they come back. The same knight on two devices: the newer wins. Two different knights in one slot: the one from this device moves to a free slot, none is lost. A knight you let go goes on every device, and the marks you earned are merged
+
+## v1.19 · 2026-11-28
+
+the stone stair over the sea can be stepped on: a thing without a size could never be used (its distance came out as nothing), so the stair at the lighthouse and the way back from the moon stair did nothing. The stair is solid now, you stand before it instead of sinking into its stones. And the quest box no longer says why
+
+## v1.18 · 2026-11-28
+
+the coach has open windows now, and inside, in red velvet under a lamp, you sit at the window and look out (your friends too), no longer a black round shape. The horses wear a short sleek coat instead of a knitted one, and their legs grow out of thigh and forearm instead of being stuck on the body
+
+## v1.17 · 2026-11-28
+
+the stone where you light the beacon lay in deep water beside the lighthouse, out of reach; it lies on the rock before the tower now. And coming back from the moon stair you no longer land inside the tower
+
 ## v1.16 · 2026-11-27
 
 lanterns light the lanes of Aschenfurt, one where each lane leaves the square, warm in the night as in the alleys of the old pictures
