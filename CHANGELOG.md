@@ -1,8 +1,16 @@
 # Changelog
 
-Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab.
+Was sich von Version zu Version geändert hat. Die Versionen vor 0.19 entstanden, bevor es das Repository gab. Ab v1.23 steht bei jeder Version zuerst in einem Satz, was Spieler davon merken, darunter der volle Text.
+
+## v1.24 · 2026-11-28
+
+**Für Spieler:** Das versteckte Werkstatt-Menü ist jetzt mit einem Passwort verschlossen.
+
+the hidden workshop asks for a password now. The server knows it (DEV_PASS in the settings), the code does not; five tries a minute; a knight it was opened with is marked. For search engines: robots.txt, a sitemap, a title and a description that say what the game is, and the game described as a video game in the page. And a list of what is new in the players' words begins (js/news.js); the public changelog is written from it
 
 ## v1.23 · 2026-11-28
+
+**Für Spieler:** Die gesprochenen Stimmen ruhen, bis alle Texte und neuen Quests fertig sind. Bis dahin murmeln die Buchstaben wieder, während sie erscheinen.
 
 the spoken voices rest for now. More quests and new words are on their way, and the people of the game will be given their voices again when the words are final; until then the letters murmur as they appear, as they do in English. Nothing was deleted
 
